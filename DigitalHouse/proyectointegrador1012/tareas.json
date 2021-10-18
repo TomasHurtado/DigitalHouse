@@ -1,0 +1,16 @@
+[
+    {
+        "titulo":"algo",
+        "estado":"pendiente"
+    }, 
+    {
+        "titulo":"algo2",
+        "estado":"terminada"
+    },
+    {
+        "titulo":"algo3",
+        "estado":"progreso"
+    }
+   
+]
+
